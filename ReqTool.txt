@@ -1,0 +1,13 @@
+# Required Tools For MegaBlog
+
+* npm i @reduxjs/toolkit
+* npm i react-redux
+* npm i react-router-dom
+* npm i appwrite
+* npm i @tinymce/tinymce-react
+* npm i html-react-parser
+* npm i react-hook-form
+
+# ShortCode For it
+* npm i @reduxjs/toolkit react-redux react-router-dom appwrite @tinymce/tinymce-react html-react-parser react-hook-form
+
